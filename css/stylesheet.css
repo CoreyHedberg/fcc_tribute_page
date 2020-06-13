@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css?family=Great+Vibes");
+@import url("https://fonts.googleapis.com/css?family=Graduate");
+@import url("https://fonts.googleapis.com/css?family=Alegreya+SC");
+
+body {
+	color: #ffffff;
+	margin-top: -2em;
+	background-color: #0c2340;
+	font-family: "Segoe UI", monospace;
+}
+
+.header {
+	background: url("../media/the_kid_swing_pan.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding-top: 0.12em;
+	padding-bottom: 0.12em;
+}
+
+.topName {
+	color: #00685e;
+	font-size: 8.5em;
+	text-align: center;
+	font-family: "Great Vibes", cursive;
+}
+
+.nickname {
+	color: #00685e;
+	font-size: 4em;
+	text-align: center;
+	margin-top: -1em;
+	font-family: "Great Vibes", cursive;
+}
+
+.signature {
+	text-align: center;
+	height: 50%;
+	width: 50%;
+}
+
+.information {
+	color: #00685e;
+	font-size: 1.2em;
+	text-align: center;
+	font-family: "Graduate";
+}
+
+section {
+	align-content: center;
+	text-align: center;
+}
+
+.careerStats {
+	color: #8a8d8f;
+	font-family: "Alegreya SC", "Graduate";
+	margin-bottom: -4px;
+}
+
+td {
+	padding: 0.6em 0.6em 0.6em 0.6em;
+}
+
+.body {
+	background-color: #00685e;
+	padding: 0.8em 0.8em 0.8em 0.8em;
+	margin-top: 4em;
+	margin-left: 16em;
+	margin-right: 16em;
+	text-align: justify;
+	color: #ffffff;
+}
+
+.tableRows {
+	background-color: #8a8d8f;
+	border-radius: 16px;
+}
+
+.linksHeadings {
+	color: #8a8d8f;
+	/* text-align: center; */
+}
+
+footer {
+	align-content: center;
+	text-align: center;
+}
+
+.footerLinks {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.footerLinks:hover {
+	color: #00685e;
+}
