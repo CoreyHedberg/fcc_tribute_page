@@ -4,13 +4,13 @@
 
 body {
   color: #ffffff;
-  margin-top: -2em;
+  margin: 0;
   background-color: #0c2340;
   font-family: "Segoe UI", monospace;
 }
 
 .header {
-  background: url("media/the_kid_swing_pan.png");
+  background: url("media/header_image.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
