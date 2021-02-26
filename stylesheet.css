@@ -53,7 +53,7 @@ section {
 
 .careerStats {
   color: #8a8d8f;
-  font-family: "Alegreya SC", "Graduate";
+  font-family: "Alegreya SC", "Graduate", serif;
   margin-bottom: -4px;
 }
 
@@ -78,8 +78,15 @@ td {
 
 .linksHeadings {
   color: #8a8d8f;
-  font-size: 1.8em;
+  font-size: 1.2em;
   font-weight: bold;
+}
+
+img {
+  margin: auto;
+  display: block;
+  max-width: 100%;
+  height: auto;
 }
 
 footer {

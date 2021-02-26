@@ -3,6 +3,8 @@
 < Build a Tribute Page Challenge
 < https://www.freecodecamp.org/challenges/build-a-tribute-page
 < By Corey Hedberg
+< corey@coreyhedberg.dev
+< https://coreyhedberg.dev
 -->
 
 
@@ -20,9 +22,9 @@
   <title>Ken Griffey Jr. Tribute Page</title>
 </head>
 <body>
-
+<main id="main">
   <section class="header">
-    <h1 class="topName">Ken Griffey Jr</h1>
+    <h1 id="title" class="topName">Ken Griffey Jr</h1>
     <h3 class="nickname">" The Kid "</h3>
   </section>
 
@@ -101,7 +103,7 @@
     </table>
 
     <!-- Story of Ken Griffey Jr's career -->
-    <div class="body">
+    <div id="tribute-info" class="body">
       <p>Ken Griffey Jr. was my favorite baseball player growing up. Period. End of story. I idolized him. That swing;
         oh my gosh that swing. It helped that I also swing the bat left-handed. I emlulated that swing more times than
         I can count.</p>
@@ -303,13 +305,18 @@
         hitting home runs, misplaying balls in the outfield and thinking they had it all figured out, when all they
         knew how to do was lose."</p>
     </div>
-
+      <figure id="img-div">
+        <img src="media/signature.jpg" alt="Ken Griffey Jr's Signature" id="image">
+        <figcaption id="img-caption">
+          Ken Griffey Jr's Signature
+        </figcaption>
+      </figure>
 
     <!-- Sources used to create page -->
 
     <footer>
       <p class="linksHeadings">Information Sources</p>
-      <p><a href="https://www.baseball-reference.com/players/g/griffke02.shtml" class="footerLinks" target="_blank">Baseball
+      <p><a href="https://www.baseball-reference.com/players/g/griffke02.shtml" id="tribute-link" class="footerLinks" target="_blank">Baseball
           Reference</a></p>
       <p><a href="https://en.wikipedia.org/wiki/Ken_Griffey_Jr." class="footerLinks" target="_blank">Wikipedia</a></p>
       <p class="linksHeadings">Editing Sources</p>
@@ -317,11 +324,7 @@
           Color Codes</a></p>
       <p><a href="https://fonts.google.com/" class="footerLinks" target="_blank">Google Fonts</a></p>
     </footer>
-
-
-
-
-
+</main>
 </body>
 
 </html>
