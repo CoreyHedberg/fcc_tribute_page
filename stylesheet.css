@@ -78,7 +78,8 @@ td {
 
 .linksHeadings {
   color: #8a8d8f;
-  /* text-align: center; */
+  font-size: 1.8em;
+  font-weight: bold;
 }
 
 footer {
