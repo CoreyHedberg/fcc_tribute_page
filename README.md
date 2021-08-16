@@ -12,9 +12,12 @@ Click [here](https://coreyhedberg.github.io/tribute_page/) to view it.
 
 <image src="readme_files/readme_screenshot.jpg"><br>
 
-This project really enforced my understanding of incorporating the CSS with the HTML to make a truly visually appealing website.
+This project really enforced my understanding of incorporating the CSS with the HTML to make a truly visually appealing website. It really is the first project I have ever completed and first website I have ever created, so it is really special to me.
 
-<image src="media/free_code_camp_logo.png" width="38"> This project was completed for the "Build A Tribute Page" challenge of the Free Code Camp Responsive Web Design Certification.
+## About Project
+
+<image src="media/free_code_camp_logo.png" width="38" alt="www.freecodecamp.org"><br>
+This project was completed for the "Build A Tribute Page" challenge of the Free Code Camp Responsive Web Design certification curriculum.<br>
 
 ## Author
 
