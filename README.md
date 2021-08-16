@@ -10,11 +10,11 @@ Click [here](https://coreyhedberg.github.io/tribute_page/) to view it.
 
 ## Summary
 
-<image src="readme_files/readme_screenshot.jpg">
-
-This website was written for the purposes of the Free Code Camp Responsive Web Design Certification "Build A Tribute Page" challenge.
+<image src="readme_files/readme_screenshot.jpg"><br>
 
 This project really enforced my understanding of incorporating the CSS with the HTML to make a truly visually appealing website.
+
+<image src="media/free_code_camp_logo.png" width="38"> This project was completed for the "Build A Tribute Page" challenge of the Free Code Camp Responsive Web Design Certification.
 
 ## Author
 
