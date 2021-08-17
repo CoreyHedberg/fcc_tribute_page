@@ -16,7 +16,7 @@ This project really enforced my understanding of incorporating the CSS with the 
 
 ## About Project
 
-<image src="media/free_code_camp_logo.png" width="38" alt="www.freecodecamp.org"><br>
+<image src="readme_files/free_code_camp_logo.png" width="38" alt="www.freecodecamp.org"><br>
 This project was completed for the "Build A Tribute Page" challenge of the Free Code Camp Responsive Web Design certification curriculum.<br>
 
 ## Author
